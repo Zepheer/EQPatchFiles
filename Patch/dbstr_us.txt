@@ -138,6 +138,7 @@
 9^11^Troll^0
 9^12^Trolls^0
 9^13^Rogues^0
+9^15^Freeport is a port city on the west of Antonica and is primarily home to Humans and Half Elves. The city is politically divided between the two powers vying for control over the city -- the Freeport Militia and the clerics and paladins of the Temple of Marr. As long as you watch your back, Freeport is a bustling city with many activities to choose from.^0
 9^16^9 (General: Dragons Points)^0
 9^19^EverQuest^0
 9^20^Dragons of Norrath^0
@@ -151,6 +152,7 @@
 10^11^Ogre^0
 10^12^Ogres^0
 10^13^Shamans^0
+10^15^Freeport is a port city on the west of Antonica and is primarily home to Humans and Half Elves. The city is politically divided between the two powers vying for control over the city -- the Freeport Militia and the clerics and paladins of the Temple of Marr. As long as you watch your back, Freeport is a bustling city with many activities to choose from.^0
 10^16^10 (Crafted: Common)^0
 10^17^Doubloon^0
 10^18^Doubloons^0
