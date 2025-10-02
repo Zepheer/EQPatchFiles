@@ -1,0 +1,5 @@
+[LoginServer]
+#Host=login.eqemulator.net:5999
+#Host=login.projecteq.net:5999
+#Host=loginserver.takproject.org:6000
+Host=loginserver.zepheer.uk:5999
