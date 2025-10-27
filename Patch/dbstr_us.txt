@@ -3511,7 +3511,7 @@
 999^6^Clears your target's mind, restoring mana.^0
 1000^1^Origin^0
 1000^2^Origin^0
-1000^4^Upon using this ability, you will be transported back to your starting city. This ability is usable every 18 minutes.^0
+1000^4^Upon using this ability, you will be transported to Plane of Knowledge.^0
 1000^30^Become a member.^0
 1000^31^There are many benefits to becoming a member.  You can keep more coin, create more characters, hold more bags, gain more loyalty points, use stronger mercenaries, create a guild, and have more tasks at once.  You can become a member through the marketplace.  Type /marketplace in your chat window,  click on the <c "#FFD700">SC</c> button on your screen, or the upgrade button on this window.^0
 1000^32^Upgrade^0
